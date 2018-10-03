@@ -8,4 +8,5 @@ Win10 + Qt5.11.1 + QtCreator4.6.2
 * 菜单栏有Design和Help两个选项
 * Design下拉菜单柏寒两个子菜单，分别是Range和Speed，控制着滚动数字的范围和滚动速度
 * Help菜单下有一个About子菜单，记录着作者信息
-![Range]()
+![Range](https://github.com/codingzhj/Qt_RollingStar/blob/master/rm_pic/Range.png?raw=true)
+![Speed]()
