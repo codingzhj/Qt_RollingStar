@@ -1,8 +1,11 @@
 # Qt_RollingStar
 **一个Qt小应用，当你和室友不知道谁出去取外卖时可以用到它**
 # 一. 环境
-Win10 + Qt5.11.1 + QtCreator4.6.2
-# 二.功能简介
+Win10 + Qt5.11.1 + QtCreator4.6.2  
+# 二. 运行
+* 配置好环境之后在Qt Creator里打开项目文件untitled.pro
+* 选择main.cpp点击运行即可
+# 三.功能简介
 ![主界面](https://github.com/codingzhj/Qt_RollingStar/blob/master/rm_pic/RollingStar_surface.png?raw=true)  
 * 主界面由一个LCDnumber显示屏和两个Button构成  
 * 菜单栏有Design和Help两个选项  
